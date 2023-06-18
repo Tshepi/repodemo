@@ -1,2 +1,3 @@
 This file B
 Let's make a change
+Some more text for FileB
